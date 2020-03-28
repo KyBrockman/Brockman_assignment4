@@ -1,0 +1,6 @@
+the word hi was repeated 3 times.
+the word how was repeated 2 times.
+the word are was repeated 2 times.
+the word dog was repeated 1 times.
+the word you was repeated 2 times.
+the word santa was repeated 2 times.
